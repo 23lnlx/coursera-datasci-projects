@@ -3,6 +3,7 @@
 *.csv
 *.csv.gz
 *.txt
+*.tsv
 
 
 
